@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-27T21:10:22 IST" name="Default suite" finished-at="2024-04-27T21:11:13 IST" duration-ms="50240">
+    <groups>
+    </groups>
+    <test started-at="2024-04-27T21:10:22 IST" name="Default test" finished-at="2024-04-27T21:11:13 IST" duration-ms="50240">
+      <class name="CasTimeSheet.TimeSheetTest">
+        <test-method is-config="true" signature="intialSetup()[pri:0, instance:CasTimeSheet.TimeSheetTest@793f29ff]" started-at="2024-04-27T21:10:22 IST" name="intialSetup" finished-at="2024-04-27T21:10:30 IST" duration-ms="7949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialSetup -->
+        <test-method signature="gotoTimeSheet()[pri:1, instance:CasTimeSheet.TimeSheetTest@793f29ff]" started-at="2024-04-27T21:10:30 IST" name="gotoTimeSheet" finished-at="2024-04-27T21:10:44 IST" duration-ms="13761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoTimeSheet -->
+        <test-method is-config="true" signature="intialSetup()[pri:0, instance:CasTimeSheet.TimeSheetTest@793f29ff]" started-at="2024-04-27T21:10:44 IST" name="intialSetup" finished-at="2024-04-27T21:10:59 IST" duration-ms="14334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialSetup -->
+        <test-method signature="threeWeekDetails()[pri:2, instance:CasTimeSheet.TimeSheetTest@793f29ff]" started-at="2024-04-27T21:10:59 IST" name="threeWeekDetails" finished-at="2024-04-27T21:11:13 IST" duration-ms="14120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threeWeekDetails -->
+      </class> <!-- CasTimeSheet.TimeSheetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
